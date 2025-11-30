@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BitWatchTV — Ways to Earn</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0d0d0d;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #00eaff;
+        }
+        .section {
+            background: #1a1a1a;
+            padding: 20px;
+            margin: 15px auto;
+            border-radius: 10px;
+            width: 90%;
+            max-width: 600px;
+            border-left: 5px solid #00eaff;
+        }
+        .rank-sm { border-left-color: #007bff; }
+        .rank-bm { border-left-color: #00ff6a; }
+        .rank-cb { border-left-color: #ff7a00; }
+        .rank-mv { border-left-color: #ff002f; }
+        .rank-gv { border-left-color: gold; }
+        .footer {
+            margin-top: 40px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🔥 BITWATCHTV — WAYS TO EARN 🔥</h1>
+    <p>Unilevel Infinity Program</p>
+
+    <div class="section">
+        <h2>📌 LEVEL INCOME</h2>
+        <p>• Level 1: <b>2 USDT</b></p>
+        <p>• Level 2 – Level 5: <b>1 USDT each level</b></p>
+    </div>
+
+    <div class="section rank-sm">
+        <h2>🟦 STARTER MINER (SM)</h2>
+        <p><b>20 USDT</b></p>
+        <p>Includes 25 codes</p>
+        <p>Potential Value: <b>25 × ₱100 = ₱2,500</b></p>
+    </div>
+
+    <div class="section rank-bm">
+        <h2>🟩 BLOCK MINER (BM)</h2>
+        <p>Requirement: <b>30 direct Starter</b></p>
+        <p>Earnings: <b>1 USDT per Starter Package (up to infinity)</b></p>
+    </div>
+
+    <div class="section rank-cb">
+        <h2>🟧 CHAIN BUILDER (CB)</h2>
+        <p>Requirement: <b>30 direct Block Miner</b></p>
+        <p>Earnings: <b>2 USDT per Starter Package (up to infinity)</b></p>
+    </div>
+
+    <div class="section rank-mv">
+        <h2>🟥 MASTER VALIDATOR (MV)</h2>
+        <p>Requirement: <b>20 direct Chain Builder</b></p>
+        <p>Earnings: <b>3 USDT per Starter Package (up to infinity)</b></p>
+    </div>
+
+    <div class="section rank-gv">
+        <h2>👑 GENESIS VALIDATOR (GV)</h2>
+        <p><b>Top Premium Rank</b> (Exclusive for Investors)</p>
+        <p>• Earn up to <b>5% monthly bonus</b></p>
+        <p>• 300 codes × ₱100 = <b>₱30,000 potential value</b></p>
+        <p>• Minimum Capital Share: <b>200 USDT</b></p>
+    </div>
+
+    <h3>👍 Simple Ranks. Simple Requirements. Unlimited Earning Potential.</h3>
+    <p class="footer">© 2025 BitWatchTV</p>
+
+</body>
+</html>
